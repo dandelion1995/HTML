@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.content{
+    width: 100%;
+    min-height: 800px;
+    background-color: #000;
+    margin: 0;
+  
+}
+.outter-box{
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    border-radius: 20px;
+}
+.inner-box{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #000;
+    display: inline-block;
+    margin: 10px;
+}
